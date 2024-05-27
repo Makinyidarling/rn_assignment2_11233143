@@ -3,7 +3,7 @@
 ## Task one 
 An app was created and the background color of the app was changed.
 ### Task two 
-The text in the background was changed to my name.
+The text in the background was changed to my name;Godwin Wulimaja.
 #### Task four 
 The font size of the text was increased to 24.
 ##### Task five
